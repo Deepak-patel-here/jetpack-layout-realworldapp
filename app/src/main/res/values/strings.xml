@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WorkOut</string>
+    <string name="ab1_inversion">Inversions</string>
+    <string name="nature">Nature Meditation</string>
+    <string name="tabata">Tabata</string>
+    <string name="quick_yoga">Quick Yoga</string>
+    <string name="streching">Stretching</string>
+    <string name="hiit">HIIT</string>
+
+    <string name="stress"> Stress and Anxiety</string>
+    <string name="overwhelmed">Overwhelmed</string>
+    <string name="self">Self massage</string>
+    <string name="mantras">Short mantras</string>
+    <string name="nighty">Nighty Wind</string>
+    <string name="align">Align Your Body</string>
+    <string name="fav"> Favourite Collection</string>
+</resources>
